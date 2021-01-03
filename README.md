@@ -1,4 +1,4 @@
-#modification approtées au projet todo
+# modification approtées au projet todo
 
 je n'ai pas réussi à ce jour à faire la suite du projet todo.
 
